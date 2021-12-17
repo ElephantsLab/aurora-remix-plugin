@@ -7,6 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@remixproject/plugin": "^0.3.24",
+    "@remixproject/plugin-iframe": "^0.3.24",
+    "@remixproject/plugin-webview": "^0.3.24",
     "vue": "^2.6.11"
   },
   "devDependencies": {
