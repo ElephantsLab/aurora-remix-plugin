@@ -7,7 +7,7 @@ const AURORA_MAINNET_CHAIN_ID = 1313161554;
 
 const client = createClient();
 client.onload(async () => {
-  await checkUserChainId();
+  //await checkUserChainId();
 
   //const data = await client.call('fileManager', 'readFile', 'contracts/AuroraBooking.sol');
 
